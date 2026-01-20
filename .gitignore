@@ -1,0 +1,21 @@
+# Java
+*.class
+*.log
+
+# Build outputs
+/build/
+/dist/
+/target/
+
+# NetBeans
+/nbproject/private/
+/nbproject/genfiles.properties
+/lib/*.jar
+
+# IDE
+.idea/
+.vscode/
+
+# OS junk
+.DS_Store
+Thumbs.db
